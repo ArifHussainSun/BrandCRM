@@ -1,0 +1,33 @@
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env
+.env.backup
+.phpunit.result.cache
+docker-compose.override.yml
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+/.idea
+/.vscode
+/assets/videos/portfolio
+/assets/images/phone-unscreen.png
+/assets/images/animation_500_l0u6ace2.gif
+/assets/images/animation_640_l0vdqws4.gif
+/assets/images/animation3.gif
+/assets/images/demo4.jpg
+/assets/images/digital.gif
+/assets/images/footer.gif
+/assets/images/gif 05.gif
+/assets/images/GIF FOR WEBSITE 01.gif
+/assets/images/GIF FOR WEBSITE 02.gif
+/assets/images/GIF FOR WEBSITE 03.gif
+/assets/images/GIF FOR WEBSITE 04.gif
+/assets/images/GIF FOR WEBSITE04.gif
+/assets/images/git file.gif
+/assets/images/ORBIT Project_final.mp4
+/assets/images/phone.gif
+/assets/images/pricing.gif
